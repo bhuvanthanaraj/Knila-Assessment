@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Knila_Assessment.props" />
+</Project>
